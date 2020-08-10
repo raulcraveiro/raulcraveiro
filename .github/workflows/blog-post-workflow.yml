@@ -1,5 +1,8 @@
-name: Blog posts feed
+name: Blog Posts Feed
 on:
+  push:
+    branches: ["production"]
+  workflow_dispatch:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
