@@ -13,3 +13,8 @@
 - Crio conteúdo para a internet sobre tecnologia e internet;
 - Esporadicamente posto alguns projetos simples aqui no GitHub (como o [Youtube Without Distractions](https://github.com/raulcraveiro/youtube-without-distractions));
 - Estou disponível para trabalhos de redação e marketing digital ([me contrata!](https://craveiro.me/contato));
+
+### Meus últimos posts ✏
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
