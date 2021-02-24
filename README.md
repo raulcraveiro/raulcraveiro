@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://craveiro.me">Blog</a> | 
+  <a href="https://craveiro.com.br">Blog</a> | 
   <a href="https://twitter.com/raulcraveiro">Twitter</a> | 
   <a href="https://instagram.com/raulcraveiro">Instagram</a> | 
   <a href="https://twitch.tv/raulcraveiro">Twitch</a> | 
