@@ -8,9 +8,9 @@
 
 ## Olar! 👋
 
-- Trabalho com redação, marketing digital e desenvolvimento no blog [Diolinux](https://diolinux.com.br);
+- Trabalho com redação, marketing digital, desenvolvimento e podcast no [Diolinux](https://diolinux.com.br);
 - Crio conteúdo para a internet sobre tecnologia e internet;
-- Esporadicamente posto alguns projetos simples aqui no GitHub (como o [Youtube Without Distractions](https://github.com/raulcraveiro/youtube-without-distractions));
+- Esporadicamente posto alguns projetos simples aqui no GitHub;
 
 ### Meus últimos posts ✏
 
