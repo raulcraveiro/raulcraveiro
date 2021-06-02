@@ -18,6 +18,6 @@
 - [O guia (nem tão) completo do minimalismo digital](https://craveiro.com.br/guia-minimalismo-digital/)
 - [Uma introdução ao minimalismo digital](https://craveiro.com.br/introducao-minimalismo-digital/)
 - [A importância de pessoas LGBTQIA dentro da área de tecnologia](https://craveiro.com.br/lgbtqia-tecnologia/)
-- [Utilize o Google Opinion Rewards e ganhe dinheiro vendendo a sua alma](https://craveiro.com.br/google-opinion-rewards/)
+- [Ganhe dinheiro vendendo a sua alma para o Google Opinion Rewards](https://craveiro.com.br/google-opinion-rewards/)
 - [Linux vs Windows: Existe um melhor?](https://craveiro.com.br/linux-windows-vencedor/)
 <!-- BLOG-POST-LIST:END -->
