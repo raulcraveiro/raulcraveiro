@@ -25,4 +25,5 @@
 ### Ouça o meu podcast 🎤
 
 <!-- PODCAST:START -->
+- [Episódio 0: Trailer](https://craveiro.com.br/podcast/trailer/)
 <!-- PODCAST:END -->
