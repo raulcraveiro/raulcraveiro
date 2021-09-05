@@ -12,7 +12,7 @@
 - Crio conteúdo para a internet sobre tecnologia e internet;
 - Esporadicamente posto alguns projetos simples aqui no GitHub;
 
-### Meus últimos posts ✏✏
+### Meus últimos posts ✏
 
 <!-- BLOG:START -->
 - [O guia (nem tão) completo do minimalismo digital](https://craveiro.com.br/guia-minimalismo-digital/)
