@@ -15,7 +15,7 @@
 ### Meus últimos posts ✏
 
 <!-- BLOG:START -->
-- [O guia (nem tão) completo do minimalismo digital](https://craveiro.com.br/guia-minimalismo-digital/)
+- [O guia &lpar;nem tão&rpar; completo do minimalismo digital](https://craveiro.com.br/guia-minimalismo-digital/)
 - [Uma introdução ao minimalismo digital](https://craveiro.com.br/introducao-minimalismo-digital/)
 - [A importância de pessoas LGBTQIA dentro da área de tecnologia](https://craveiro.com.br/lgbtqia-tecnologia/)
 - [Ganhe dinheiro vendendo a sua alma para o Google Opinion Rewards](https://craveiro.com.br/google-opinion-rewards/)
