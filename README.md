@@ -1,14 +1,14 @@
 <p align="center">
   <a href="https://craveiro.com.br">Blog</a> | 
   <a href="https://youtube.com/raulcraveiro">YouTube</a> | 
-  <a href="https://twitter.com/raulcraveiro">Twitter</a> | 
+  <a href="https://mastodon.online/@raulcraveiro">Mastodon</a> | 
   <a href="https://instagram.com/raulcraveiro">Instagram</a>
 </p>
 
 ## Olar! 👋
 
-- Trabalho como gerente de time no [Diolinux](https://diolinux.com.br), onde também sou responsável pelo canal [Diolinux Clips](https://youtube.com/diolinuxclips);
-- Crio conteúdo para a internet sobre tecnologia e internet;
+- Trabalho criando conteúdo no [Diolinux](https://diolinux.com.br), onde também sou responsável pelo canal [Diolinux Labs](https://youtube.com/@diolinuxlabs);
+- Também crio conteúdo por aí sobre tecnologia e internet;
 - Esporadicamente posto alguns projetos simples aqui no GitHub;
 
 ### Meus últimos posts ✏
